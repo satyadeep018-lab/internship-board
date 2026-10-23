@@ -2,8 +2,8 @@
 
 An accessible internship listing interface built with plain HTML, CSS and JavaScript. No framework, no build step, no npm. It works on mobile, tablet and desktop.
 
-- **Live preview:** _add your deployed URL here_
-- **Repository:** _add your GitHub repo URL here_
+- **Live preview:** https://internship-board-pied.vercel.app/
+- **Repository:** https://github.com/satyadeep018-lab/internship-board
 
 ## Features
 
